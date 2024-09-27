@@ -14,6 +14,4 @@ If you are opening the site in mobile phone, Please open in Desktop Mode
 ![preview-img](https://github.com/AmanKumarSinhaGitHub/Flipkart-Clone/assets/65329366/7f7137a9-df36-45eb-a39b-8ff6efd64d7c)
 
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request.
